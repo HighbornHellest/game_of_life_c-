@@ -1,0 +1,4 @@
+﻿  game_of_life_c++.cpp
+c:\users\sleve\source\repos\game_of_life_c++\game_of_life_c++\game_of_life_c++.cpp(131): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\sleve\source\repos\game_of_life_c++\game_of_life_c++\game_of_life_c++.cpp(158): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  game_of_life_c++.vcxproj -> C:\Users\sleve\source\repos\game_of_life_c++\Debug\game_of_life_c++.exe

@@ -1,0 +1,9 @@
+﻿  game_of_life_c++.cpp
+c:\users\sleve\source\repos\game_of_life_c++\game_of_life_c++\game_of_life_c++.cpp(145): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\sleve\source\repos\game_of_life_c++\game_of_life_c++\game_of_life_c++.cpp(210): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  3 of 114 functions ( 2.6%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  game_of_life_c++.vcxproj -> C:\Users\sleve\source\repos\game_of_life_c++\Release\game_of_life_c++.exe
